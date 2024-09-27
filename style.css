@@ -1,0 +1,49 @@
+body {
+  background-color: rgb(40, 40, 40);
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.title {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.batu,
+.gunting,
+.kertas {
+  border-radius: 100%;
+  background-color: rgb(40, 40, 40);
+  border: white solid 3px;
+  height: 125px;
+  width: 125px;
+}
+
+.container {
+  margin-bottom: 50px;
+}
+
+.gambar {
+  height: 50px;
+  width: 50px;
+  
+}
+
+.hasil {
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.pilihan {
+  margin-bottom: 50px;
+}
+
+.hapus,
+.auto {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-right: 16px;
+  padding-left: 16px;
+  font-size: 16px;
+}
